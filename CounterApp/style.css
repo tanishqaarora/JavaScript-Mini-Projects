@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 50px;
+
+}
+
+div.container {
+    text-align: center;
+}
+.count {
+    font-size: 2rem;
+}
+
+.buttons button {
+    margin: 1rem;
+    padding: 1rem;
+    font-weight: 700;
+}
+
+button.subtract {
+    background-color: orangered;
+}
+
+button.reset {
+    background-color: white;
+}
+
+button.add {
+    background-color: rgb(68, 159, 68);
+}
