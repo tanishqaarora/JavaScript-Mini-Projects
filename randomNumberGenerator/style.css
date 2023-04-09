@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 50px;
+
+}
+
+div.container {
+    text-align: center;
+}
+
+.number {
+    font-size: 2rem;
+}
+
+.generate {
+    background-color: violet;
+    margin: 1rem;
+    padding: 1rem;
+    font-weight: 700;
+}
+
+
